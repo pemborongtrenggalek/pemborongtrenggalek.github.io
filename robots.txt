@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pemborongtrenggalek.github.io/sitemap.xml
