@@ -1,0 +1,31 @@
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://pemborongtrenggalek.github.io/</loc>
+		<lastmod>2022-02-02T00:00:00+07:00</lastmod>
+		<image:image>
+			<loc>https://pemborongtrenggalek.github.io/assets/img/icon.png</loc>
+		</image:image>
+		<image:image>
+			<loc>https://pemborongtrenggalek.github.io/assets/img/logo.png</loc>
+		</image:image>
+		<image:image>
+			<loc>https://pemborongtrenggalek.github.io/assets/img/home.png</loc>
+		</image:image>
+		<image:image>
+			<loc>https://pemborongtrenggalek.github.io/assets/img/about.jpg</loc>
+		</image:image>
+		<image:image>
+			<loc>https://pemborongtrenggalek.github.io/assets/img/jasa-borong-rumah.png</loc>
+		</image:image>
+		<image:image>
+			<loc>https://pemborongtrenggalek.github.io/assets/img/jasa-pengadaan-material.png</loc>
+		</image:image>
+		<image:image>
+			<loc>https://pemborongtrenggalek.github.io/assets/img/jasa-alat-berat.png</loc>
+		</image:image>
+		<image:image>
+			<loc>https://pemborongtrenggalek.github.io/assets/img/blog.png</loc>
+		</image:image>
+	</url>
+</urlset>
